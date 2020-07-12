@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SimpleWidgetExample.iml" filepath="$PROJECT_DIR$/SimpleWidgetExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleWidgetExample.iml" filepath="$PROJECT_DIR$/SimpleWidgetExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SimpleWidgetExample-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SimpleWidgetExample-app.iml" group="SimpleWidgetExample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WidgetExamples-SimpleWidgetExample.iml" filepath="$PROJECT_DIR$/.idea/modules/WidgetExamples-SimpleWidgetExample.iml" group="SimpleWidgetExample" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BroadcastWidgetExample.iml" filepath="$PROJECT_DIR$/BroadcastWidgetExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BroadcastWidgetExample-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BroadcastWidgetExample-app.iml" group="BroadcastWidgetExample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WidgetExamples-BroadcastWidgetExample.iml" filepath="$PROJECT_DIR$/.idea/modules/WidgetExamples-BroadcastWidgetExample.iml" group="BroadcastWidgetExample" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
